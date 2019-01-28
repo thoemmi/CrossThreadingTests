@@ -3,6 +3,8 @@
 This repository contains a sample WinForms application to demonstrate
 async/await "challenges" in UI programming.
 
+![Demo App](assets/winforms-app.png)
+
 The form contains three buttons which are intended to download the
 the content from http://microsoft.com asynchronously and show it
 in a TextBox.
